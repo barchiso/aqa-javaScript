@@ -18,7 +18,7 @@ export default [
 			'jest/no-identical-title': 'error',
 			'jest/prefer-to-have-length': 'warn',
 			'jest/valid-expect': 'error',
-			indent: ['error', 4], // or use "tab" if you want to enforce tabs
+			indent: ['error', 'tab'], // or use "tab" if you want to enforce tabs
 		},
 	},
 ];
